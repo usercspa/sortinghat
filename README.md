@@ -1,1 +1,1 @@
-# sortinghat
+# Sorting hat
